@@ -125,7 +125,7 @@ img{
     color: #fff;
     border: none;
     border-bottom-right-radius: 8px;
-    background-color: red;
+    background-color: #BA0001;
     cursor: pointer;
   }
 
@@ -225,7 +225,7 @@ img{
 }
 
 .heading{
-  background-color: red;
+  background-color: #BA0001;
   color: #ffffff;
   margin-bottom: 30px;
   padding: 30px 0 30px 0;
@@ -370,7 +370,7 @@ img{
 
 
 .why-Meetgram h2 span{
-  color: red;
+  color: #BA0001;
 }
 
 .circle-cards-container{
@@ -432,7 +432,7 @@ img{
 }
 
 .about .about_main .about_text h1 span{
-  color: red;
+  color: #BA0001;
   margin-right: 20px;
   font-family: mv boli;
 }
@@ -456,7 +456,7 @@ img{
 }
 
 .about .about_btn{
-  background: red;
+  background: #BA0001;
   padding: 12px 25px;
   text-decoration: none;
   color: #fff;
@@ -716,7 +716,7 @@ img{
   display: flex;
   align-items: center;
   justify-content: center;
-  color: red;
+  color: #BA0001;
   background-color: #fff;
   /* text-decoration: none; */
   
